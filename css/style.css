@@ -1,0 +1,25 @@
+/* This style can be used or not depending on your project */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* This style can be used or not depending on your project */
+body{
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  /* background: #000; */
+}
+
+/* style button-link */
+.button-link{
+  display: inline-block;
+  padding: 14px 54px;
+  color: #f9fafb;
+  text-decoration: none;
+  border-radius: calc(infinity * 1px);
+  background-color: #000;
+}
